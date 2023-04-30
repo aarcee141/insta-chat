@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/insta-chat/static/css/main.490fdc54.css",
+    "main.js": "/insta-chat/static/js/main.2c6cdd3e.js",
+    "static/js/787.0062d3d5.chunk.js": "/insta-chat/static/js/787.0062d3d5.chunk.js",
+    "static/media/abc.jpeg": "/insta-chat/static/media/abc.cf6b5c122ed123261866.jpeg",
+    "static/media/WhatsAppBackGround.png": "/insta-chat/static/media/WhatsAppBackGround.39f53e74f66d348d9f7c.png",
+    "index.html": "/insta-chat/index.html",
+    "main.490fdc54.css.map": "/insta-chat/static/css/main.490fdc54.css.map",
+    "main.2c6cdd3e.js.map": "/insta-chat/static/js/main.2c6cdd3e.js.map",
+    "787.0062d3d5.chunk.js.map": "/insta-chat/static/js/787.0062d3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490fdc54.css",
+    "static/js/main.2c6cdd3e.js"
+  ]
+}
